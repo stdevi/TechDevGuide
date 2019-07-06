@@ -1,3 +1,5 @@
+package sum_numbers;
+
 import java.util.Arrays;
 
 public class SumNumbers {

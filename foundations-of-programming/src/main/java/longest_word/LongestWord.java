@@ -1,3 +1,5 @@
+package longest_word;
+
 import org.javatuples.Pair;
 
 import java.util.*;

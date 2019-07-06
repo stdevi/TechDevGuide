@@ -1,0 +1,12 @@
+word
+earth
+line
+calculator
+computer
+java
+language
+plane
+flight
+file
+master
+version

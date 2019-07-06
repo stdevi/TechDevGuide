@@ -1,3 +1,5 @@
+package can_balance;
+
 public class CanBalance {
 
     public boolean canBalance(int[] nums) {

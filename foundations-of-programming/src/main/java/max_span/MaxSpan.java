@@ -1,3 +1,5 @@
+package max_span;
+
 public class MaxSpan {
 
     public int maxSpan(int[] nums) {
