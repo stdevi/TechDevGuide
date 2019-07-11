@@ -2,8 +2,9 @@
 Break out your Java toolbox to fix the duplicate collapsing code you'll encounter in this medium-difficulty problem created by Google.
 
 Fix this duplicate collapsing code:
- 
-`public String collapseDuplicates(String a) { 
+
+``` 
+public String collapseDuplicates(String a) { 
     int i = 0; 
     String result = ""; 
     while (i < a.length()) { 
@@ -15,7 +16,8 @@ Fix this duplicate collapsing code:
         i++; 
     } 
     return result; 
-}`
+}
+```
 
 
 `collapseDuplicates("a") → "a"`
