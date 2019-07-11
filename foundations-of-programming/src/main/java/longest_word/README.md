@@ -1,4 +1,4 @@
-#The Challenge
+# The Challenge
 Given a string `S` and a set of words `D`, find the longest word in `D` that is a subsequence of `S`.
 
 Word W is a subsequence of `S` if some number of characters, possibly zero, can be deleted from `S` to form W, without reordering the remaining characters.

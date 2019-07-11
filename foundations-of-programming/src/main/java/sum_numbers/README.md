@@ -1,4 +1,4 @@
-#sumNumbers problem
+# sumNumbers problem
 Ready for a challenge? Take on the task of returning the sum of the numbers in a string, while ignoring all other characters in that same string. 
 For this problem-solving, a number is a series of digits of 1 or more in a row.
 

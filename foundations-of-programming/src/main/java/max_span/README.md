@@ -1,4 +1,4 @@
-#maxSpan problem
+# maxSpan problem
 In this not-too-hard, not-too-easy option, you'll tackle arrays and the appearance of values.
 Take your time with this one — efficiency isn't a priority.
 

@@ -1,4 +1,4 @@
-#collapseDuplicates problem
+# collapseDuplicates problem
 Break out your Java toolbox to fix the duplicate collapsing code you'll encounter in this medium-difficulty problem created by Google.
 
 Fix this duplicate collapsing code:
@@ -20,6 +20,6 @@ public String collapseDuplicates(String a) {
 ```
 
 
-`collapseDuplicates("a") → "a"`
-`collapseDuplicates("aa") → "a"`
-`collapseDuplicates("abc") → "abc"`
+`collapseDuplicates("a") → "a"`  
+`collapseDuplicates("aa") → "a"`  
+`collapseDuplicates("abc") → "abc"`  

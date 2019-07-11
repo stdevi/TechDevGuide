@@ -1,4 +1,4 @@
-#WithoutString problem
+# WithoutString problem
 You'll get a good programming workout with this mid-range Java problem-solving, which involves removing one string from another. 
 Hint: this one isn't case sensitive.
 
