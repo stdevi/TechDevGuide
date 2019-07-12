@@ -1,0 +1,3 @@
+# Advanced Programming
+
+On the cusp of graduating? Self-taught to a high level? These resources will let you integrate what you've learned and polish your software engineering skills. Follow our suggested paths or use them in any order you’d like. Along the way you’ll learn tricks of the trade that will help you program more efficiently, and gain experience using open source code and other industry tools.
